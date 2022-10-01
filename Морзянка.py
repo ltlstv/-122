@@ -8,3 +8,4 @@ for i in range(1, (len(InpS)+1)):
         if (InpS[i-1] == str(A[j-1])) or (InpS[i-1] == str(a[j-1])):
             OutS = OutS + str(Morze[j-1]) + ' '
 print('Ваша строка, перекодированная на азбуку Морзе: ' +OutS)
+# Кто такая Катя?
